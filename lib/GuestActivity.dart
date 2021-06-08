@@ -29,6 +29,7 @@ class GuestPage extends State<GuestActivity> {
   TextEditingController _controllerPhone = new TextEditingController();
   TextEditingController _controllerEmail = new TextEditingController();
   TextEditingController _controllerNote = new TextEditingController();
+
   //Inisialisasi awal
   @override
   void initState() {
